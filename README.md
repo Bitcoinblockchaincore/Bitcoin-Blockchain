@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+Blockchain and Bitcoin Core integration/staging tree
 =====================================
 
 https://blockchaincore.net
@@ -6,7 +6,7 @@ https://blockchaincore.net
 For an immediately usable, binary version of the Bitcoin Core software, see
 https://blockchaincore.net/download
 
-What is Bitcoin and BlockchainCore ?
+What is Bitcoin and Blockchain Core ?
 ---------------------
 
 Bitcoin and Blockchain Core connects to the Bitcoin peer-to-peer network to download and fully
